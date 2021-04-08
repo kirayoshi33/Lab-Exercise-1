@@ -1,0 +1,5 @@
+-To embed these fonts into a webpage, copy this code into the <head> of your HTML document.
+<link href="https://fonts.googleapis.com/css?family=Glass-Antiqua|Macondo-Swash-Caps" rel="stylesheet">
+-Then, use the following CSS rules to specify these families:
+font-family: 'Glass-Antiqua';
+font-family: 'Macondo-Swash-Caps';
